@@ -1,4 +1,8 @@
 ## Hi there 👋
+Welcome to my Profile, A student at University of the Western Cape
+persuing Computer Science degree. Headed to Software engineering + Ofensive Security
+Well in the meantime i'm learning about API's and the backend of the web.
+
 
 <!--
 **sbonga04/sbonga04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
