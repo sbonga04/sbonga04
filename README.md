@@ -1,8 +1,22 @@
-## Hi there 👋
-Welcome to my Profile, A student at University of the Western Cape
-persuing Computer Science degree. Headed to Software engineering + Ofensive Security.
-In the meantime i'm learning about API's and the backend of the web.
+# Hi, I’m Sbongumusa 👋
 
+I’m a Computer Science and Mathematics student at the University of the Western Cape.
+
+### What I do:
+- Building backend APIs with Java & Spring Boot  
+- Learning database integration and RESTful services  
+- Exploring Linux, Git, and terminal workflows  
+- Improving coding skills daily and sharing my journey
+
+### Projects
+- [REST-API-S](https://github.com/sbonga04/REST-API-S) — My first Spring Boot REST API project
+
+### Let us connect on LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sbongumusa-alpha-mkhize)
+
+---
+
+*Thanks for visiting! Feel free to check out my repos and follow along.*
 
 <!--
 **sbonga04/sbonga04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
