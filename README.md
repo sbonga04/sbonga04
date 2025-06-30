@@ -12,7 +12,7 @@ I’m a Computer Science and Mathematics student at the University of the Wester
 - [REST-API-S](https://github.com/sbonga04/REST-API-S) — My first Spring Boot REST API project
 
 ### Let us connect on LinkedIn
-[LinkedIn](https://www.linkedin.com/in/sbongumusa-alpha-mkhize)
+[LinkedIn]([https://www.linkedin.com/in/sbongumusa-alpha-mkhize](https://www.linkedin.com/in/sbongumusa-alpha-mkhize-64b870282/))
 
 ---
 
