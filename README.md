@@ -16,7 +16,7 @@ I’m a Computer Science and Mathematics student at the University of the Wester
 
 ---
 
-*Thanks for visiting! Feel free to check out my repos and follow along.*
+*Thanks for visiting... Feel free to check out my repos and follow along.*
 
 <!--
 **sbonga04/sbonga04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
