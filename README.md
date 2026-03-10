@@ -1,4 +1,4 @@
-# Hi, I’m Sbonga Mkhize👋
+# Hi, I’m Alha Mkhize👋
 
 I’m a Computer Science and Mathematics student at the University of the Western Cape.
 
