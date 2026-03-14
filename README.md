@@ -1,4 +1,4 @@
-# Hi, I’m Alpha Mkhize👋
+# Hi, my name is Alpha Mkhize👋
 
 I’m a Computer Science and Mathematics student at the University of the Western Cape.
 
