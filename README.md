@@ -9,7 +9,7 @@ I’m a Computer Science and Mathematics student at the University of the Wester
 - Improving coding skills daily and sharing my journey
 
 ### Let us connect on LinkedIn
-[LinkedIn](https://www.linkedin.com/in/sbongumusa-alpha-mkhize-64b870282/)
+[LinkedIn](https://www.linkedin.com/in/s-bongumusa-alpha-mkhize-64b870282/)
 
 ---
 
