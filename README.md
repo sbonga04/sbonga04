@@ -1,11 +1,11 @@
-# Hi, my name is Alpha Mkhize👋
+# Hi, my name is Alpha Mkhize
 
 I’m a Computer Science and Mathematics student at the University of the Western Cape.
 
 ### What I do:
 - Building backend APIs with Java & Spring Boot  
 - Learning database integration and RESTful services  
-- Exploring Linux, Git, and terminal workflows  
+- Working with Linux, Git, and Cybersecurity tools 
 - Improving coding skills daily and sharing my journey
 
 ### Let us connect on LinkedIn
